@@ -1,0 +1,26 @@
+[
+    {
+		"name": "daamper",
+		"version": "0.3.6",
+		"state": "stable",
+		"update": "2025-10-24",
+		"url": "https://dbproject.rf.gd/actualizacion/daamper-0-3-6",
+		"image": "https://dbproject.rf.gd/assets/img/min-daamper.png"
+    },
+	{
+		"name": "AnPer",
+		"version": "0.1.4",
+		"state": "stable",
+		"update": "2024-06-08",
+		"url": "https://dbproject.rf.gd/web/anper",
+		"image": "https://dbproject.rf.gd/assets/img/min-anper.png"
+    },
+	{
+		"name": "daam",
+		"version": "0.3.4c",
+		"state": "stable",
+		"update": "2025-03-22",
+		"url": "https://dbproject.rf.gd/web/daam",
+		"image": "https://dbproject.rf.gd/assets/img/min-daam.png"
+    }
+]
